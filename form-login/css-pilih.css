@@ -1,0 +1,58 @@
+body, html, div{
+    height: 100%;
+    line-height: 1.8em;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-image: url(backg3.jpg);
+    background-size: cover;
+	background-attachment: fixed;
+}
+#kiri {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+#kanan {
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+#kiri a img{
+    padding: 2% 20% 8% 20%;
+}
+#kanan a img{
+    padding: 2% 20% 8% 20%;
+}
+#kiri a img:hover{
+    width: 50%;
+}
+#kanan a img:hover{
+    width: 50%;
+}
+h2{
+    width: 600px;
+    text-align: center;
+    background-color:rgba(255, 0, 0, 0.25);
+    /* height: 30px; */
+    color:white;
+    padding: 40px 15px 15px 15px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    font-size: 60pt;
+    height: 45pt;
+}
+#kiri h1 a{
+    padding: 0 0 0 10%;
+    font-size: 40pt;
+    font-family: 'Titan One', cursive;
+    color: white;
+    text-decoration: none;
+}
+#kanan h1 a{
+    padding: 0 10% 0 30% ;
+    font-size: 40pt;
+    font-family: 'Titan One', cursive;
+    color: white;
+    text-decoration: none;
+}
