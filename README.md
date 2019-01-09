@@ -11,3 +11,10 @@ Latihan 5
 ![alt text](https://github.com/aghnaz/Praktikum3Aghna/blob/master/Latihan5.JPG)
 Latihan 6
 ![alt text](https://github.com/aghnaz/Praktikum3Aghna/blob/master/Latihan6.JPG)
+
+Form Login
+![alt text](https://github.com/aghnaz/Praktikum3Aghna/blob/master/Form-login.JPG)
+*Username=Aghna, Password=XIRPL2
+Apabila Login Berhasil
+![alt text](https://github.com/aghnaz/Praktikum3Aghna/blob/master/Berhasil-login.JPG)
+Apabila login tidak berhasil, maka akan kembali pada halaman awal atau halaman login:)
